@@ -11,6 +11,4 @@
 ### Semantic Analysis Scope:
 Similar steps of Sentiment, but in this case instead of checking it with positive and negative words, applied the formulae of Log(N/df) where N is total documents and df is number of document containing that word which we are trying to search for.
 
-### Word Cloud Created Using Tableau
-
-
+### Word Cloud Created Using Tableau and Business Intelligence on number of programs in each department is done by making star schema and IBM's Cognos BI.
