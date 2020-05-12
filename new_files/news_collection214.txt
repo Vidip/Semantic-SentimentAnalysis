@@ -1,0 +1,4 @@
+Description:Publisher Correction  Gas cluster ion beam SEM for imaging of large tissue samples with 10 nm isotropic resolution
+Title:Publisher Correction: Gas cluster ion beam SEM for imaging of large tissue samples with 10 nm isotropic resolution
+ContentCorrection to: Nature Methodshttps://doi.org/10.1038/s41592-019-0641-2, published online 18 November 2019.
+In the version of this article initially published online, the Code Ocean URL was given as https://codeocean.com/capsule/2101690/tree in the Code Avail… [+886 chars]

@@ -1,0 +1,3 @@
+Description:We ve seen a smart arm bracelet that can predict nightly seizures  but now a pair of researchers have created something even more promising  an AI system that can predict epileptic seizures with 99 6 percent accuracy  Even better  it can do so up to an hour b 
+Title:Researchers develop an AI system with near-perfect seizure prediction
+ContentWhile it's not a complete fix, the new AI system, developed by Hisham Daoud and Magdy Bayoumi of the University of Louisiana at Lafayette, is a major leap forward from existing prediction methods. Currently, other methods analyze brain activity with an EEG (e… [+508 chars]

@@ -1,0 +1,4 @@
+Description:5G is faster and more secure than 4G  But new research shows it also has vulnerabilities that could put phone users at risk  Security researchers at Purdue University and the University of Iowa have found close to a dozen vulnerabilities  which they say can b 
+Title:New 5G flaws can track phone locations and spoof emergency alerts
+Content5G is faster and more secure than 4G. But new research shows it also has vulnerabilities that could put phone users at risk.
+Security researchers at Purdue University and the University of Iowa have found close to a dozen vulnerabilities, which they say can … [+3311 chars]

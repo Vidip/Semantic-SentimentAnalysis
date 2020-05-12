@@ -1,0 +1,5 @@
+Description:Remembrance Day 2019  Canada Remembers   LIVE Global News Watch Remembrance Day at the Canadian War Museum  Live video Maclean s Remembrance Day poppies dropped over Dover The Sun View full coverage on Google News
+Title:Remembrance Day 2019: Canada Remembers | LIVE - Global News
+Content[[getSimpleString(data.title)]]
+[[getSimpleString(data.description)]]
+[[getSimpleString(data.videoCountText)]]
